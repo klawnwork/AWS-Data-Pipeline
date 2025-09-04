@@ -1,5 +1,5 @@
 # AWS-Data-Pipeline
-Transforms column labels within a .csv file, moves the file from S3 to a MicrosoftSQL server via a Glue job and multiple Lambda functions using PySpark
+Transforms column labels in a .csv file, moves the file from S3 to a MicrosoftSQL server via a Glue job and multiple Lambda functions using PySpark
 
 <h2>Languages and Utilities </h2>
 
@@ -14,7 +14,7 @@ Transforms column labels within a .csv file, moves the file from S3 to a Microso
 
 - <b>AWS Cloud- S3, EC2, VPC, Lambda, Glue, Secrets Manager, IAM</b>
 - <b>SQL Server 2022 Express</b>
-- <b>SQL Server Configuration Manager- enabled TCP/IP, set port 1433, and enable SQL Server Browser for remote connctions</b>
+- <b>SQL Server Configuration Manager- configured TCP/IP, set port 1433, and enabled SQL Server Browser for remote connctions</b>
 - <b>Docker Desktop- tested ODBC configurations in a local environment</b>
 - <b>Windows 11- Local OS</b>
 - <b>VSCode- created and debugged Python scripts</b>
@@ -23,4 +23,8 @@ Transforms column labels within a .csv file, moves the file from S3 to a Microso
 
 <p align="center">
 <br />
-<img src="https://imgur.com/a/T9G7N4R.png" height="80%" width="80%"/>
+<img width="816" height="351" alt="Screenshot 2025-09-04 133111" src="https://github.com/user-attachments/assets/7b8a90cc-e7a8-4ee2-ad97-7b17fe812e0c" />
+
+<h2>Project Walkthrough</h2>
+
+<b>Coming soon...<b>
