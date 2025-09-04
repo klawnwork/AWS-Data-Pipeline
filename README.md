@@ -19,7 +19,7 @@ Transforms column labels within a .csv file, moves the file from S3 to a Microso
 - <b>Windows 11- Local OS</b>
 - <b>VSCode- created and debugged Python scripts</b>
 
-<h2>Project Architecture:</h2>
+<h2>Project Architecture</h2>
 
 <p align="center">
-<img src="https://imgur.com/ZeB9Pu4.png" height="80%" width="80%"/>
+<img src="https://imgur.com/a/yz6Wews" height="80%" width="80%"/>
