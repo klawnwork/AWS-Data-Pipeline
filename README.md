@@ -23,4 +23,4 @@ Transforms column labels within a .csv file, moves the file from S3 to a Microso
 
 <p align="center">
 <br />
-<img src="https://imgur.com/T9G7N4R.png" height="80%" width="80%"/>
+<img src="https://imgur.com/a/T9G7N4R.png" height="80%" width="80%"/>
