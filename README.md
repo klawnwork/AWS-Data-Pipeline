@@ -22,4 +22,4 @@ Transforms column labels within a .csv file, moves the file from S3 to a Microso
 <h2>Project Architecture</h2>
 
 <p align="center">
-<img src="https://imgur.com/a/wYfc14R.png" height="80%" width="80%"/>
+<img src="[https://imgur.com/a/wYfc14R.png](https://imgur.com/a/1RvtFhZ)" height="80%" width="80%"/>
