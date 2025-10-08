@@ -28,4 +28,5 @@ Transforms column labels in a .csv file, moves the file from S3 to a MicrosoftSQ
 
 <h2>Project Walkthrough</h2>
 
-<b>Coming soon...<b>
+<b>Full video walkthrough here:</b>
+<b>https://youtu.be/mKFMrlFzjyk<b>
